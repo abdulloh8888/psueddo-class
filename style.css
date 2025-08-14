@@ -1,0 +1,96 @@
+section {
+    display: flex;
+    gap: 20px;
+    justify-content: end;
+    color: grey;
+}
+
+a:hover {
+    color: black;
+}
+
+.box {
+    margin-top: 178px;
+    margin-left: 130px;
+    width: 1180px;
+    height: 466px;
+    display: flex;
+}
+
+.virt h1 {
+    width: 421px;
+    height: 98px;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.virt p {
+    width: 440px;
+    height: 84px;
+    color: #7D7987;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 609px;
+    height: 466px;
+}
+button{
+    width: 197px;
+    height: 47px;
+    border-radius: 55px;
+    color: white;
+    background-color: #E7E7E7;
+}
+.buttom:active{
+    background-color: #458FF6;
+}
+.k{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ter{
+    width: 952px;
+    margin-left: 175px;
+    color: #7D7987;
+}
+.m{
+    width: 300px;
+    background-color: #E7E7E7;
+    padding: 50px;
+    border-radius: 20px;
+}
+.m p{
+    width: 200px;
+    color: #7D7987;
+}
+.m h3{
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
+.m img{
+    width: 98px;
+    height: 93px;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+.m:hover{
+    color: #FFFFFF;
+    background-color: #5A98F2;
+}
+.car{
+    margin-left: 550px;
+    color: #458FF6;
+    border: 1px solid #458FF6;
+    background-color: white;
+}
+.wer{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 35px;
+   margin-left: 585px;
+}
